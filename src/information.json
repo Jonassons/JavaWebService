@@ -1,0 +1,25 @@
+{
+  "p2":{
+    "name":"albin",
+    "age":23,
+    "color":"green"
+
+
+
+  },
+  "p3":{
+    "name":"adam",
+    "age":26,
+    "color":"blue"
+
+  },
+  "p4":{
+    "name":"patrik",
+    "age":50,
+    "color":"red"
+
+  }
+
+
+
+}
